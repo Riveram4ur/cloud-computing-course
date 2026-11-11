@@ -14,11 +14,11 @@ const config: Config = {
     v4: true, // Improve compatibility with the upcoming Docusaurus v4
   },
 
-  // GitHub Pages - Repo: https://github.com/JuanJoseMirandaM/cloud-computing-course
-  url: 'https://juanjosemirandam.github.io',
+  // Modificado para tu cuenta de GitHub
+  url: 'https://Riveram4ur.github.io',
   baseUrl: '/cloud-computing-course/',
 
-  organizationName: 'JuanJoseMirandaM',
+  organizationName: 'Riveram4ur',
   projectName: 'cloud-computing-course',
 
   deploymentBranch: 'gh-pages',
@@ -41,8 +41,9 @@ const config: Config = {
         docs: {
           routeBasePath: '/', // docs en la ruta principal
           sidebarPath: './sidebars.ts',
+          // Actualizado para apuntar a tu repositorio para las sugerencias de edición
           editUrl:
-            'https://github.com/JuanJoseMirandaM/cloud-computing-course/tree/main/',
+            'https://github.com/Riveram4ur/cloud-computing-course/tree/main/',
         },
         blog: false, // sin blog
         theme: {
@@ -66,7 +67,8 @@ const config: Config = {
       },
       items: [
         {
-          href: 'https://github.com/JuanJoseMirandaM',
+          // Actualizado al perfil de Riveram4ur
+          href: 'https://github.com/Riveram4ur',
           label: 'GitHub',
           position: 'right',
         },

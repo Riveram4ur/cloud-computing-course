@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Bienvenidos al Curso
+# ¡Bienvenido al sistema modificado por Mauricio Rivera!
 
 Bienvenidos a la documentación del curso de **Computación en la Nube**. Aquí encontraras los materiales, guías y referencias para seguir el curso.
 
